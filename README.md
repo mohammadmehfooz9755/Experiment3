@@ -67,7 +67,7 @@ src/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/mohammadmehfooz9755/Experiment3.git)
    ```
 
 2. Navigate to the project directory:
@@ -96,7 +96,7 @@ The application will run locally at `http://localhost:5173/` (Vite default).
 
 The application is deployed using **Vercel**, enabling fast performance and easy continuous deployment.
 
-> Live Demo: *(Add your Vercel deployment link here)*
+> Live Demo: (https://e-commercewebsitewithrouting.vercel.app/)
 
 ---
 
@@ -122,7 +122,7 @@ This project was developed as part of the **Third Experiment** in the *Full Stac
 ## 👤 Author
 
 **Mohammad Mehfooz**
-B.E. Computer Science & Engineering
+B.E. Computer Science & Engineering with specialization in Artificial Intelligence and Machine Learning
 
 ---
 
